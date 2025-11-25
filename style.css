@@ -1,0 +1,114 @@
+
+#introduction h1 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;  
+}
+
+#introduction p {
+    font-family: "Roboto Flex", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:300;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+
+#introduction {
+    background-color: #FAF9EE;
+}
+
+#resume {
+    background-color: #A2AF9B;
+}
+
+#interests {
+    background-color: #DCCFC0;
+}
+
+#contact {
+    background-color: #F8F9FA;
+}
+
+#footer {
+    background-color: #F8F9FA;
+}
+
+#profilepic {
+    display: flex;
+    justify-content: center;
+}
+
+.profilepic { 
+    height: 200px;
+    width: 150px;          
+}
+
+#hello {
+    display: flex;
+    justify-content:center
+}
+
+#iam {
+    display: flex;
+    justify-content:center
+}
+
+#hello > h2 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;  
+}
+
+#iam > p {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+#hanging-icons h3 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal; 
+}
+
+#hanging-icons p {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#hanging-icons li {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#interests h2 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center; 
+}
+
+#interests h3 {
+    color:tomato
+}
